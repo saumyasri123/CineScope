@@ -86,7 +86,7 @@ To run this project locally, follow these steps:
 ## Live Demo
 
 Check out the live version of CineScope here:  
-[https://cine-scope-seven.vercel.app/](https://cine-scope-opal.vercel.app/)
+[https://cine-scope-seven.vercel.app/](https://cine-scope-seven.vercel.app/)
 
 ---
 
